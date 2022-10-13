@@ -35,7 +35,7 @@ body header img{
 body header img:hover{
 	background-color: rgba(93, 89, 89, 0.351);
 	border-radius: 100%;
-	border-width: 10px;
+	border-width: 5px;
 	border-style: solid;
 	border-color: #c5bdbdde;
 }
